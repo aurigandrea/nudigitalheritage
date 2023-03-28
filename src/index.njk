@@ -38,4 +38,15 @@ layout: 'base.njk'
     <p class="text-center">This blog was born from the History, Heritage, and Memory module of the History course at Northeastern University London lead by Dr Andrea Kocsis who is the editor. The authors are the undergraduate students taking the module.</p>
   </div>
 </section>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
