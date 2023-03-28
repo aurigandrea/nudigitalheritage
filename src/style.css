@@ -47,7 +47,6 @@
 
 /* Remove default margin */
 body,
-h1,
 h2,
 h3,
 h4,
@@ -55,8 +54,10 @@ p,
 figure,
 blockquote,
 dl,
-dd {
-  margin: 0;
+dd
+
+h1 {
+  margin: 20px;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
@@ -384,4 +385,15 @@ section,
 .btn--neutral:focus {
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headerimage {
+  display:inline-block;
+  Width:auto!important;
 }
