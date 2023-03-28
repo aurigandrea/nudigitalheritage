@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: main # Branch to update (master by default)
 
 media_folder: "public/assets/blog" # Folder where user uploaded files should go
