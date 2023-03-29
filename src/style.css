@@ -176,16 +176,16 @@ section,
   Header
   /////////////////////// */
 
-.page-header {
+#page-header {
   padding: 2em 0;
-
+    display: inline-block;
+       justify-content: space-between;
+  background: white;
 
 }
 
-.page-header__content {
-   display: inline-block;
-  justify-content: space-between;
-
+#page-header__content {
+       justify-content: space-between;
 }
 
 .nav-list {
@@ -193,7 +193,7 @@ section,
   padding: 20px;
     font-size: large;
       box-shadow: 0 2px 4px 0 #8c0f23;
-   display: inline-block;
+
 
 
 }
@@ -396,21 +396,35 @@ section,
 .logos { text-align: center;
 }
 
-.logosleft img {
- width: 10%;
+
+.content-sidebar img {
+ width: 45%;
   display:inline-block;
 
 }
+.content-sidebar {
+  display: flex;
+  flex-wrap: wrap;
+}
 
-.column {
-  float: left;
-    display:inline-block;
+.content-sidebar > *:nth-child(1){
+flex: 1 1 20%;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.content-sidebar > *:nth-child(2){
+flex: 1 1 50%;
+}
+
+.content-sidebar > *:nth-child(3){
+flex: 1 1 30%;
+  justify-content: end;
 
 }
 
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}

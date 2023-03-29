@@ -1,16 +1,16 @@
-<header class="page-header">
+<header id="page-header">
   <div class="container">
     <div class="page-header__content">
-      <div class="row">
-        <div class="column">
-             <div class="logosleft">
-                <img src="/assets/NUlogo.jpeg" >
-                <img src="/assets/logo.png" >
-             </div>
+      <div class="content-sidebar">
+          <div class="col">
+                <a href="https://www.nulondon.ac.uk/"><img src="/assets/NUlogo.jpeg" ></a>
+               <a href="/"><img src="/assets/logo.png" ></a>
+               </div>
+          <div class="col">
              <h1>Heritage in the digital age <br> by NU London</h1>
-          </div>
-          <div class="column">
-             <nav>
+            </div>
+              <div class="col">
+                 <nav>
         <ul role="list" class="nav-list flex-group">
           <li>
             <a href="/">Home</a>
@@ -23,9 +23,29 @@
           </li>
         </ul>
       </nav>
-  </div>
-</div>
+                  </div>
+ </div>
+
     </div>
     </div>
   </div>
+    <script>
+        // When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the header
+var header = document.getElementById("page-header");
+
+// Get the offset position of the navbar
+var sticky = header.offsetTop;
+
+// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+    </script>
 </header>
