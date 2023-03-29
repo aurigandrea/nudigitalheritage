@@ -2,7 +2,7 @@
 title: Is Abba Voyage digital heritage?
 description: I﻿'ve recently attended the Abba Voyage concert, and couldn't help
   to be buffled with the questions it raised and how similar they to our
-  concerns about digital heritage.
+  concerns about digital heritage. where is this article?
 author: Andrea Kocsis
 date: 2023-03-29T09:32:21.998Z
 tags:
