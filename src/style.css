@@ -181,6 +181,7 @@ section,
     display: inline-block;
        justify-content: space-between;
   background: white;
+      z-index: 1;
 
 }
 
@@ -424,7 +425,48 @@ flex: 1 1 50%;
 .content-sidebar > *:nth-child(3){
 flex: 1 1 30%;
   justify-content: end;
-
 }
 
+h1:hover {
+  background-size: 100% 100%;
+  background-position: 0% 100%;
+  transition: background-position .7s, background-size .5s ease-in-out;
+}
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+}
 
+.hover-underline-animation:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: crimson;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.social {
+  margin: 20%;
+  padding: 20px;
+  box-shadow: 0 2px 4px 0 #8c0f23;
+  background-color: crimson;
+  overflow:hidden
+}
+
+.social h3 {
+    color: white;
+}
+
+.fb-share-button{
+  overflow:hidden;
+}
