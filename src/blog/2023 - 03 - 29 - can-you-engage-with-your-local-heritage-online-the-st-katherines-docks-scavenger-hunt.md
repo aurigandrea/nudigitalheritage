@@ -1,11 +1,10 @@
 ---
 title: Can you engage with your local heritage online? The St Katherine's Docks
   Scavenger Hunt
-description: "**The big C changed everything, including forcing lecturers to
-  find new ways to engage students. We wanted them to maintain the connection to
-  the campus site, so I created an online scavenger hunt exploring the
-  palimpsest of St Katharine's Dock, where our campus is located. Do you think I
-  succeeded?**"
+description: The big C changed everything, including forcing lecturers to find
+  new ways to engage students. We wanted them to maintain the connection to the
+  campus site, so I created an online scavenger hunt exploring the palimpsest of
+  St Katharine's Dock, where our campus is located. Do you think I succeeded?
 author: Andrea Kocsis
 date: 2023-03-29T11:21:44.704Z
 tags:
