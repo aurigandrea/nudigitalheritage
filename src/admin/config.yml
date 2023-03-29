@@ -6,10 +6,11 @@ backend:
 publish_mode: editorial_workflow
 
 media_folder: "public/assets/blog" # Folder where user uploaded files should go
+public_folder: "assets/blog"
+
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, e.g., /admin/collections/:slug/edit
-    public_folder: "assets/blog"
     label: "Blog" # Used in the UI, e.g., "New Post"
     folder: "src/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
