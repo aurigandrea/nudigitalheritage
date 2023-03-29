@@ -6,8 +6,8 @@ layout: 'base.njk'
 
     <h1 class="article-title">{{ title }}</h1>
     <figure class="main-article__figure">
-      <img src="{{post.data.image}}" alt="{{post.data.imageAlt }}">
-      <figcaption>{{ post.data.imageAlt }}      </figcaption>
+      <img src="{{image}}" alt="{{imageAlt }}">
+      <figcaption>{{imageAlt}}      </figcaption>
     </figure>
 {{content | safe}}
 
