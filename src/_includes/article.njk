@@ -5,6 +5,8 @@ layout: 'base.njk'
 <div class="container container--narrow flow">
 
     <h1 class="article-title">{{ title }}</h1>
+    <p>by {{author}} on {{date}}</p>
+    <p><span style="font-weight:bold">{{description}}</span> </p>
     <figure class="main-article__figure">
       <img src="{{image}}" alt="{{imageAlt }}">
       <figcaption>{{imageAlt}} </figcaption>
