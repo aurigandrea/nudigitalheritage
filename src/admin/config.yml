@@ -4,8 +4,8 @@ backend:
   branch: main # Branch to update (master by default)
 
 
-media_folder: "public/assets/blog" # Folder where user uploaded files should go
-public_folder: "assets/blog"
+media_folder: "src/assets/blog" # Folder where user uploaded files should go
+public_folder: "public/assets/blog"
 
 
 collections: # A list of collections the CMS should be able to edit
