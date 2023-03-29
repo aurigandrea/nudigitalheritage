@@ -8,8 +8,8 @@ layout: 'base.njk'
   <div class="container flow">
       <div class="hero__content flow">
         <h1 class="section-title">Welcome! We are still building this site, please come back later</h1>
-        <p>Heritage is the use of the past in the present. But what if our present is digital?</p>
-        <p>We, students and lecturers at Northeastern University London, use this space to search for some possible answers. Have a look around! </p>
+        <p>Heritage is the use of the past in the present. But what happens with the past if our present is digital?</p>
+        <p>We, some like-minded students and lecturers at Northeastern University London interested in heritage and digital humanities, use this space to search for possible answers through critical lenses. Have a look around!</p>
         <div class="flex-group">
           <a href="#featured-articles" class="btn btn--primary">Featured articles</a>
           <a href="./blog" class="btn btn--neutral">Most recent articles</a>
@@ -24,7 +24,7 @@ layout: 'base.njk'
 <section id="featured-articles" class="featured-articles">
   <div class="container flow">
     <h2 class="section-title text-center ">Featured articles</h2>
-    <p class="text-center">Here is a sample of articles which I feel give you a good idea of what this site is all about.</p>
+    <p class="text-center">Here is a taster of articles that can give you a good idea of what this site is about. Dive in!</p>
    <ul role="list" class="articles__list flow">
   {%- for post in collections.featured |reverse -%}
    {% include 'article.snippet.njk' %}
@@ -35,7 +35,8 @@ layout: 'base.njk'
 <section id="aboutus" class="aboutus">
   <div class="container flow">
     <h2 class="section-title text-center "><a id="aboutus"> About us</a></h2>
-    <p class="text-center">This blog was born from the History, Heritage, and Memory module of the History course at Northeastern University London lead by Dr Andrea Kocsis who is the editor. The authors are the undergraduate students taking the module.</p>
+    <p class="text-center">This blog was born from the History, Heritage, and Memory module of the History course at Northeastern University London, led by Dr Andrea Kocsis, the editor of this blog. The authors are undergraduate students taking the module, and some other scholars also happen to drop by.
+</p>
   </div>
 </section>
 
