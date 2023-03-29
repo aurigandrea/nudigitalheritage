@@ -22,5 +22,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tags", name: "tags", widget: "list", default: ["post"]}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Image Caption", name: "imageAlt", widget: "string"}
-      - {label: "Body", name: "body", widget="markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
