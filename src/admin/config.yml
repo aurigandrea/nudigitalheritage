@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: aurigandrea/nudigitalheritage
   branch: main # Branch to update (master by default)
 
 publish_mode: editorial_workflow
