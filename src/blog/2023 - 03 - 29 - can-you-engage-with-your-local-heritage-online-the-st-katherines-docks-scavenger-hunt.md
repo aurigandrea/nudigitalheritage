@@ -10,6 +10,7 @@ author: Andrea Kocsis
 date: 2023-03-29T11:21:44.704Z
 tags:
   - post
+  - featured
 image: assets/blog/screenshot-2023-03-29-at-10.41.31.png
 imageAlt: The landing page of the game
 ---
