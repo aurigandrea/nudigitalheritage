@@ -43,5 +43,3 @@ And finally, if you fancy a good old cringe, I have a Youtube video on using ent
 **F﻿urther reading:**
 
 Herzfeld M. (2009). *Evicted from eternity : the restructuring of modern rome*. University of Chicago Press.
-
-Das, S., Osipova, M., Nakshatram, S.V., Söbke, H., Hauge, J.B., Springer, C. (2022). Gamification for Spatial Digital Learning Environments in Higher Education: A Rapid Literature Review. In: Kiili, K., Antti, K., de Rosa, F., Dindar, M., Kickmeier-Rust, M., Bellotti, F. (eds) Games and Learning Alliance. GALA 2022. Lecture Notes in Computer Science, vol 13647. Springer, Cham. https://doi.org/10.1007/978-3-031-22124-8_29
