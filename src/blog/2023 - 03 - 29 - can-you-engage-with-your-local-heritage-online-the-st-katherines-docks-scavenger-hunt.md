@@ -1,12 +1,12 @@
 ---
 title: Can you engage with your local heritage online? The St Katharine Docks
   Scavenger Hunt
-description: The pandemic changed everything, including forcing lecturers to
-  find new ways to engage students. As we wanted our international students to
-  maintain their connection to the campus site, I created an online scavenger
-  hunt exploring the palimpsest of St Katharine Docks, where our NU London
-  campus stands. Do you think I succeeded at bridging the gap between online and
-  offline?
+description: It is no news that the pandemic changed our lives but also forced
+  lecturers to find new ways to engage students. As we wanted our international
+  students to maintain their connection to the university site, I created an
+  online scavenger hunt exploring the palimpsest of St Katharine Docks, where
+  our NU London campus stands. Do you think I successfully bridged the gap
+  between online and offline spaces?
 author: Andrea Kocsis
 date: 2023-03-29T11:21:44.704Z
 tags:
