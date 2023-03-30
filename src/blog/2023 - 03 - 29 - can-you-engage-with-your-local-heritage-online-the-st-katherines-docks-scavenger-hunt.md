@@ -1,10 +1,10 @@
 ---
-title: Can you engage with your local heritage online? The St Katherine's Docks
+title: Can you engage with your local heritage online? The St Katharine Docks
   Scavenger Hunt
 description: The pandemic changed everything, including forcing lecturers to
   find new ways to engage students. As we wanted our international students to
   maintain their connection to the campus site, I created an online scavenger
-  hunt exploring the palimpsest of St Katherine's Dock, where our NU London
+  hunt exploring the palimpsest of St Katharine Docks, where our NU London
   campus stands. Do you think I succeeded at bridging the gap between online and
   offline?
 author: Andrea Kocsis
@@ -19,7 +19,7 @@ We found it crucial that our students at Northeastern London appreciate and unde
 
 What Michael Herzfeld observed about Rome is true in the case of any other historic city living through conflicts and reconciliations: "There is a continuous interplay among institutions and individuals, producing continuities as well as ruptures and especially focusing on the play of eternity and evanescence evoked by the pervasive presence of ruins—of fragments of a past made present by their constant incorporation into the living city" (2009, 11). We wanted our students to understand this connection - even when we couldn't be on campus physically. 
 
-So I moved our local scavenger hunt online. You are free to judge my success in bridging over the digital and physical spaces, but the game can still be fun. Can you accomplish the tasks while learning about the rich and sometimes difficult heritage of St Katherine's Docks? 
+So I moved our local scavenger hunt online. You are free to judge my success in bridging over the digital and physical spaces, but the game can still be fun. Can you accomplish the tasks while learning about the rich and sometimes difficult heritage of St Katharine Docks? 
 
 <center>T﻿ry the game here:
 
@@ -38,7 +38,7 @@ Snippet from the StoryMap
 And finally, if you fancy a good old cringe, I have a Youtube video on using entry-level digital tools to express better the verticality of history when explaining spatial heritage to students. Apologies for it, I'm clearly not an on-camera talent, but I was contractually obliged to record it. However, the project I am introducing, the Prague Palimpsest, is a nice one. The case study starts at about 5 minutes in. 
 
 <center><iframe width="400\
-" height="315" src="https://www.youtube.com/embed/6aLtKNnHlSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+" height="315" src="https://www.youtube.com/embed/6aLtKNnHlSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div></center>
 
 F﻿urther reading:
 
