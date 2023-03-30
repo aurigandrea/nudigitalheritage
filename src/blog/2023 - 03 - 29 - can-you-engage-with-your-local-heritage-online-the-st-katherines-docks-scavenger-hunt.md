@@ -15,7 +15,9 @@ tags:
 image: /assets/blog/screenshot-2023-03-29-at-10.41.31.png
 imageAlt: The landing page of the game
 ---
-We found it crucial that our students at Northeastern London appreciate and understand the consequences of studying in the historic heart of the metropolis. The space is never tabula rasa, and the spirit of the place unconsciously has an agency over us. We are linked not only to our current neighbours but also to the network of past and present experiences of living. We wanted our students to understand that - even when we couldn't be on campus physically. 
+We found it crucial that our students at Northeastern London appreciate and understand the consequences of studying in the historic heart of the metropolis. The space is never tabula rasa, and the spirit of the place unconsciously has an agency over us. We are linked not only to our current neighbours but also to the network of past and present experiences of living.
+
+What Michael Herzfeld observed about Rome is true in the case of any other historic city living through conflicts and reconciliations: "There is a continuous interplay among institutions and individuals, producing continuities as well as ruptures and especially focusing on the play of eternity and evanescence evoked by the pervasive presence of ruins—of fragments of a past made present by their constant incorporation into the living city" (2009, 11). We wanted our students to understand this connection - even when we couldn't be on campus physically. 
 
 So I moved our local scavenger hunt online. You are free to judge my success in bridging over the digital and physical spaces, but the game can still be fun. Can you accomplish the tasks while learning about the rich and sometimes difficult heritage of St Katherine's Docks? 
 
