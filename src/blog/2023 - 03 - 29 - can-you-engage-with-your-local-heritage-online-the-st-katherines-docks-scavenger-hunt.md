@@ -27,11 +27,9 @@ So I moved our local scavenger hunt online. You are free to judge my success in 
 
 If you would like to recreate the game in your classroom or your local area, feel free to fork the code from [here](https://github.com/aurigandrea/nuscavengerhunt). For the newbie techies, it is a front-end-only, super-easy project to practice JavaScript. 
 
-If you prefer to discover the subject but not in a gamified version, I recommend the exciting ArcGIS Storymap prepared by my colleague, Dr Olly Ayers.
+If you prefer to discover the subject but not in a gamified version, I recommend the exciting ArcGIS Storymap prepared by my colleague, Dr Olly Ayers:
 
-<center>
-
-> <https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319>
+<﻿center<p><https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319><﻿/p></center>[](https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319)
 
 ![Snippet from the StoryMap](/assets/blog/screenshot-2023-03-29-at-20.15.01.png "Snippet from the StoryMap")
 
