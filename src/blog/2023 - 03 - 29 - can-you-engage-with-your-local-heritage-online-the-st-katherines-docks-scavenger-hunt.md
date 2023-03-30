@@ -12,7 +12,7 @@ date: 2023-03-29T11:21:44.704Z
 tags:
   - post
   - featured
-image: /assets/blog/screenshot-2023-03-30-at-15.21.05.png
+image: /assets/blog/screenshot-2023-03-30-at-15.24.03.png
 imageAlt: The landing page of the game
 ---
 We found it crucial that our students at Northeastern London appreciate and understand the consequences of studying in the historic heart of the metropolis. The space is never tabula rasa, and the spirit of the place unconsciously has an agency over us. We are linked not only to our current neighbours but also to the network of past and present experiences of living.
