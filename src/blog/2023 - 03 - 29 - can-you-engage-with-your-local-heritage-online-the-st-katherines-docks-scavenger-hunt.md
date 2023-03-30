@@ -29,7 +29,7 @@ If you would like to recreate the game in your classroom or your local area, fee
 
 If you prefer to discover the subject but not in a gamified version, I recommend the exciting ArcGIS Storymap prepared by my colleague, Dr Olly Ayers:
 
-<﻿center<p><https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319><﻿/p></center>[](https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319)
+<https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319>[](https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319)
 
 ![Snippet from the StoryMap](/assets/blog/screenshot-2023-03-29-at-20.15.01.png "Snippet from the StoryMap")
 
