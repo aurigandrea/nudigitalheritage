@@ -15,7 +15,7 @@ tags:
 image: /assets/blog/screenshot-2023-03-29-at-10.41.31.png
 imageAlt: The landing page of the game
 ---
-We found it crucial that our students at Northeastern London appreciate and understand the consequences of being situated in the historic heart of the metropolis. The space is never tabula rasa, and the spirit of the place unconsciously has an agency over us. We are linked not only to our current neighbours but also to the network of past and present experiences of living. We wanted our students to understand that - even when we couldn't be on campus physically. 
+We found it crucial that our students at Northeastern London appreciate and understand the consequences of studying in the historic heart of the metropolis. The space is never tabula rasa, and the spirit of the place unconsciously has an agency over us. We are linked not only to our current neighbours but also to the network of past and present experiences of living. We wanted our students to understand that - even when we couldn't be on campus physically. 
 
 So I moved our local scavenger hunt online. You are free to judge my success in bridging over the digital and physical spaces, but the game can still be fun. Can you accomplish the tasks while learning about the rich and sometimes difficult heritage of St Katherine's Docks? 
 
@@ -30,14 +30,12 @@ If you prefer to discover the subject but not in a gamified version, I recommend
 <center>
 
 > <https://storymaps.arcgis.com/stories/bbf474bbf7654fc4a9f1723ec4969319>
->
-> </center>
 
 ![Snippet from the StoryMap](/assets/blog/screenshot-2023-03-29-at-20.15.01.png "Snippet from the StoryMap")
 
 Snippet from the StoryMap
 
-And finally, if you fancy a good old cringe, I have a Youtube video on using entry-level digital tools to express better the palimpsest of history when explaining spatial heritage to students. Apologies for it, I'm clearly not an on-camera talent, but I was contractually obliged to record it. However, the project I am introducing, the Prague Palimpsest, is a nice one. The case study starts at about 5 minutes in.
+And finally, if you fancy a good old cringe, I have a Youtube video on using entry-level digital tools to express better the verticality of history when explaining spatial heritage to students. Apologies for it, I'm clearly not an on-camera talent, but I was contractually obliged to record it. However, the project I am introducing, the Prague Palimpsest, is a nice one. The case study starts at about 5 minutes in. 
 
 <center><iframe width="400\
 " height="315" src="https://www.youtube.com/embed/6aLtKNnHlSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
