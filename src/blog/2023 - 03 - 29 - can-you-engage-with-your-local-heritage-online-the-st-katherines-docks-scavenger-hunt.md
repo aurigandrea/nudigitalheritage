@@ -19,7 +19,7 @@ We found it crucial that our students at Northeastern London appreciate and unde
 
 What Michael Herzfeld observed about Rome is true in the case of any other historic city living through conflicts and reconciliations: "There is a continuous interplay among institutions and individuals, producing continuities as well as ruptures and especially focusing on the play of eternity and evanescence evoked by the pervasive presence of ruins—of fragments of a past made present by their constant incorporation into the living city" (2009, 11). We wanted our students to understand this connection - even when we couldn't be on campus physically. 
 
-So I moved our local scavenger hunt online. Although it is far from immersive, the additional gamification might induce activity-based learning. Yet you are free to judge my success in bridging over the digital and physical spaces.  We continued using the game post-covid, as it proved more accessible for students with limited mobility. However, by offering the option to take the Hunt online, I wonder if we reinforced the students' rupture with the physical space by relocating the activity to an online realm or the opposite, by creating a digital story and a bird-eye view, we helped to cultivate a more profound understanding of the campus' spatial heritage. Can you accomplish the tasks while learning about the rich and sometimes difficult heritage of St Katharine Docks? 
+So I moved our local scavenger hunt online. Although it is far from immersive, the additional gamification might induce activity-based learning. We continued using the game post-covid, as it proved more accessible for students with limited mobility. However, by offering the option to take the Hunt online, I wonder if we reinforced the students' rupture with the physical space by relocating the activity to an online realm or the opposite, by creating a digital story and a bird-eye view, we helped to cultivate a more profound understanding of the campus' spatial heritage. You are free to judge my success in bridging over the digital and physical spaces. Can you accomplish the tasks while learning about the rich and sometimes difficult heritage of St Katharine Docks? 
 
 <center>T﻿ry the game here:
 
@@ -39,6 +39,8 @@ And finally, if you fancy a good old cringe, I have a Youtube video on using ent
 
 <center><iframe width="400\
 " height="315" src="https://www.youtube.com/embed/6aLtKNnHlSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div></center>
+
+What do you think, can digital spaces help us better understand physical ones?
 
 **F﻿urther reading:**
 
