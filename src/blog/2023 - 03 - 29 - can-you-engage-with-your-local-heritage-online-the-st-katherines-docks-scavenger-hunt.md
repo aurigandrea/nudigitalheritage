@@ -40,7 +40,7 @@ And finally, if you fancy a good old cringe, I have a Youtube video on using ent
 <center><iframe width="400\
 " height="315" src="https://www.youtube.com/embed/6aLtKNnHlSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div></center>
 
-<p>What do you think, can digital spaces help us better understand physical ones?<p>
+<p><﻿center>What do you think, can digital spaces help us better understand physical ones?</center><p>
 
 **F﻿urther reading:**
 
