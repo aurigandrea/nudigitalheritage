@@ -37,11 +37,11 @@ Snippet from the StoryMap
 
 And finally, if you fancy a good old cringe, I have a Youtube video on using entry-level digital tools to express better the verticality of history when explaining spatial heritage to students. Apologies for it, I'm clearly not an on-camera talent, but I was contractually obliged to record it. However, the project I am introducing, the Prague Palimpsest, is a nice one. The case study starts at about 5 minutes in. 
 
-<center><iframe width="400\
-" height="315" src="https://www.youtube.com/embed/6aLtKNnHlSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div></center>
-
-<p>What do you think, can digital spaces help us better understand physical ones?<p>
+What do you think, can digital spaces help us better understand physical ones?
 
 **F﻿urther reading:**
 
-Herzfeld M. (2009). *Evicted from eternity : the restructuring of modern Rome*. University of Chicago Press.
+Herzfeld M. (2009). *Evicted from eternity : the restructuring of modern Rome*. University of Chicago Press
+
+<center><iframe width="400\
+" height="315" src="https://www.youtube.com/embed/6aLtKNnHlSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div></center>
