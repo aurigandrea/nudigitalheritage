@@ -1,6 +1,6 @@
 ---
-title: Heritage in the digital age - by NULab London
-excerpt: Heritage is the use of the past in the present. But what happens with the past if our present is digital? Students and lecturers at NU London are looking for the answers.
+title: Heritage in the digital age
+excerpt: Heritage is the use of the past in the present. But what happens with the past if our present is digital? Students and lecturers at Northeasten University London are looking for the answers.
 layout: 'base.njk'
 ---
 
@@ -10,15 +10,28 @@ layout: 'base.njk'
       <div class="hero__content flow">
         <h1 class="section-title">Welcome! We are still building this site, please come back later</h1>
         <p>Heritage is the use of the past in the present. But what happens with the past if our present is digital?</p>
-        <p>We are some like-minded students and lecturers at Northeastern University London interested in heritage and digital humanities, and use this space to search for possible answers through critical lenses. Have a look around!</p>
+        <p>We are some like-minded students and scholars interested in heritage and digital humanities, and use this space to search for possible answers through critical lenses. Have a look around!</p>
         <div class="flex-group">
           <a href="#featured-articles" class="btn btn--primary">Featured articles</a>
-          <a href="./blog" class="btn btn--neutral">Most recent articles</a>
+          <a href="./blog" class="btn btn--primary2">Most recent articles</a>
+            <a href="/#aboutus" class="btn btn--neutral">About us</a>
         </div>
       </div>
       <div>
         <img src="/assets/logo.png" class="hero__image">
       </div>
+  </div>
+</section>
+
+<section id="news" class="news">
+  <div class="container flow">
+    <h2 class="section-title text-center ">Digital heritage news from us</h2>
+    <p class="text-center">Here are some things we were up to recently.</p>
+   <ul role="list" class="articles__list flow">
+ {%- for post in collections.news |reverse -%}
+   {% include 'news.snippet.njk' %}
+    {%- endfor -%}
+</ul>
   </div>
 </section>
 
@@ -33,10 +46,11 @@ layout: 'base.njk'
 </ul>
   </div>
 </section>
+
 <section id="aboutus" class="aboutus">
   <div class="container flow">
     <h2 class="section-title text-center "><a id="aboutus"> About us</a></h2>
-    <p class="text-center">This blog was born from the History, Heritage, and Memory module of the History course at Northeastern University London, led by Dr Andrea Kocsis, the editor of this blog. She is a member of NULab for Texts, Maps, and Networks. The authors are undergraduate students taking the module, and some other scholars also happen to drop by.
+    <p class="text-center">This blog was born from the History, Heritage, and Memory module of the History course at Northeastern University London, led by Dr Andrea Kocsis, the editor of this blog. She is a member of <a href="https://cssh.northeastern.edu/nulab/"> NULab for Texts, Maps, and Networks</a>. The authors are undergraduate students taking the module, and some other scholars also happen to drop by.
 </p>
   </div>
 </section>

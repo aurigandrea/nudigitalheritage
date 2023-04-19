@@ -110,7 +110,7 @@ h3 {
   font-family: var(--ff-heading);
   font-weight: var(--fw-900);
   line-height: 1.1;
-  color: #8c0f23;
+  color: #003747;
 }
 
 strong {
@@ -149,7 +149,7 @@ section,
 .flex-group {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--gap, 1em);
+  gap: 0.5em;
 }
 
 .text-center {
@@ -160,7 +160,7 @@ section,
 
 .article-title,
 .section-title {
-  color: #8c0f23;
+  color: #003747;
 }
 
 .article-title {
@@ -182,8 +182,12 @@ section,
        justify-content: space-between;
   background: white;
       z-index: 1;
+    border-bottom: 2px solid transparent;
+    border-image: linear-gradient(0.25turn, rgba(140,15,35), rgba(56, 186, 173), rgba(56,2,155,0));
+    border-image-slice: 1;
 
 }
+
 
 #page-header__content {
        justify-content: space-between;
@@ -193,14 +197,14 @@ section,
   margin: 10px;
   padding: 20px;
     font-size: large;
-      box-shadow: 0 2px 4px 0 #8c0f23;
+      box-shadow: 0 2px 4px 0 #003747;
 
 
 
 }
 
 .nav-list a {
-  color: #37060e;
+  color: #003747;
   text-decoration: None;
      display: inline-block;
 
@@ -210,7 +214,7 @@ section,
 .nav-list a:hover {
   color: white;
   text-decoration: underline;
-    background-color: crimson;
+    background-color: #38baad;
 
 }
 
@@ -222,7 +226,7 @@ section,
   --logo-color: currentColor;
   padding: 2em 0;
   color: white;
-  background-color: #8c0f23;
+  background-color: #003747;
   text-align: center;
 }
 
@@ -251,7 +255,7 @@ section,
 }
 
 .featured-articles {
-  background-color: rgba(245, 112, 74, 0.2)
+  background-color: rgba(4,98,118, 0.2)
 ;
 }
 
@@ -300,11 +304,11 @@ section,
 }
 .snippet__meta {
   grid-area: meta;
-  color: ##8c0f23);
+  color: #003747);
 }
 
 .snippet__meta span {
-  color: #37060e;
+  color: #003747;
 }
 
 .snippet .btn {
@@ -312,7 +316,7 @@ section,
 }
 
 .snippet__title {
-  color: #37060e;
+  color: #003747;
   font-size: var(--fs-500);
 }
 
@@ -323,7 +327,7 @@ section,
 
 .snippet__title a:hover,
 .snippet__title a:focus {
-  color: crimson;
+  color: #026a81;
 } 
 
 @media (min-width: 45em) {
@@ -348,36 +352,49 @@ section,
   border-radius: 0.25em;
   align-self: start;
   justify-self: start;
+  box-shadow: 0 2px 4px 0 #003747;
 }
 
 .btn:focus {
-  outline: 0.125em solid #8c0f23;
+  outline: 0.125em solid #003747;
   outline-offset: 0.25em;
 }
 
 .btn--primary {
-  background: crimson;
+  background: #026a81;
   color: white;
   font-weight: var(--fw-700);
-  border: 2px solid #8c0f23;
+  border: 2px solid #003747;
 }
 .btn--primary:hover,
 .btn--primary:focus {
-  background: #8c0f23;
-  border-color: #37060e);
+  background: #003747;
+  border-color: #37060e;
+color: gray;
 }
-
+.btn--primary2 {
+  background: RGB(6,118,141, 0.8);
+  color: white;
+  font-weight: var(--fw-700);
+  border: 2px solid #003747;
+}
+.btn--primary2:hover,
+.btn--primary2:focus {
+  background: #003747;
+  border-color: #003747;
+color: gray;
+}
 .btn--neutral {
   background-color: white;
-  color: #37060e;
+  color: #003747;
   font-weight: var(--fw-700);
-  border: 2px solid #8c0f23;
+  border: 2px solid #003747;
 }
 
 .btn--neutral:hover,
 .btn--neutral:focus {
-  color: #8c0f23;
-  background-color: #F5704A
+  color: #003747;
+  background-color: RGBA(56, 186, 173);
 );
 }
 
@@ -399,9 +416,9 @@ section,
 
 
 .content-sidebar img {
- width: 45%;
+ width: 60%;
   display:inline-block;
-
+  box-shadow: 0 2px 4px 0 #003747;
 }
 .content-sidebar {
   display: flex;
@@ -445,7 +462,7 @@ h1:hover {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: crimson;
+  background-color: RGB(56, 186, 173);
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
@@ -458,8 +475,8 @@ h1:hover {
 .social {
   margin: 5% 30% 5%;
   padding: 10px;
-  box-shadow: 0 2px 4px 0 #8c0f23;
-  background-color: crimson;
+  box-shadow: 0 2px 4px 0 #003747;
+  background-color: #026a81;
   overflow:hidden
 }
 
@@ -469,4 +486,19 @@ h1:hover {
 
 .fb-share-button{
   overflow:hidden;
+}
+
+#news {
+  background-color: RGBA(6,84,101, 0.6);
+}
+
+a img{
+-webkit-transform: scale(1);
+transform: scale(1);
+-webkit-transition: .3s ease-in-out;
+transition: .3s ease-in-out;
+}
+a:hover img {
+-webkit-transform: scale(1.02);
+transform: scale(1.02);
 }

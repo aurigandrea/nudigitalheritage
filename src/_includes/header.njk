@@ -3,12 +3,12 @@
     <div class="page-header__content">
       <div class="content-sidebar">
           <div class="col">
-                <a href="https://www.nulondon.ac.uk/"><img src="/assets/NUlogo.jpeg" ></a>
+               <!-- <a href="https://www.nulondon.ac.uk/"><img src="/assets/NUlogo.jpeg" ></a>-->
                <a href="/"><img src="/assets/logo.png" ></a>
                </div>
           <div class="col">
 
-              <h1><span class="hover-underline-animation">Heritage in the digital age <br> by NULab London</span></h1>
+              <h1><span class="hover-underline-animation">Heritage in the digital age</h1>
 
             </div>
               <div class="col">
@@ -49,5 +49,14 @@ function myFunction() {
     header.classList.remove("sticky");
   }
 }
+// Prevents window from moving on touch on older browsers.
+window.addEventListener('touchmove', function (event) {
+  event.preventDefault()
+}, false)
+
+// Allows content to move on touch.
+document.querySelector('.body-container').addEventListener('touchmove', function (event) {
+  event.stopPropagation()
+}, false)
     </script>
 </header>
