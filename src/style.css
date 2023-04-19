@@ -185,6 +185,7 @@ section,
     border-bottom: 2px solid transparent;
     border-image: linear-gradient(0.25turn, rgba(140,15,35), rgba(56, 186, 173), rgba(56,2,155,0));
     border-image-slice: 1;
+  border-width: medium;
 
 }
 
