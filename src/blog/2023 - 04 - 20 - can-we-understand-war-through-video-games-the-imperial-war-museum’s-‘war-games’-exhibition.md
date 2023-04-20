@@ -1,16 +1,16 @@
 ---
 title: "Can we understand war through video games? The Imperial War Museum’s
   ‘War Games’ exhibition "
-description: "**Over the past few decades, video games have become one of the
-  most successful and popular forms of entertainment. With over two billion
-  gamers worldwide, scholars have advocated for more research on how
-  representations of past events in video games contribute to our broader
-  cultural understandings. One of the most popular genres is that of war games:
-  where digitally representing real-life war functions as the basis of both
-  gameplay and narrative. The Imperial War Museum’s new exhibition, ‘War Games’,
-  attempts to provide insight into how such games are created and what impact
-  these historical representations of warfare can have on users.  Christina
-  Chester thinks it is a missed opportunity. Continue reading to learn why.**"
+description: "Over the past few decades, video games have become one of the most
+  successful and popular forms of entertainment. With over two billion gamers
+  worldwide, scholars have advocated for more research on how representations of
+  past events in video games contribute to our broader cultural understandings.
+  One of the most popular genres is that of war games: where digitally
+  representing real-life war functions as the basis of both gameplay and
+  narrative. The Imperial War Museum’s new exhibition, ‘War Games’, attempts to
+  provide insight into how such games are created and what impact these
+  historical representations of warfare can have on users.  Christina Chester
+  thinks it is a missed opportunity. Continue reading to learn why."
 author: " Christina Chester"
 date: 2023-04-20T09:12:41.549Z
 tags:
