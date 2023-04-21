@@ -6,7 +6,7 @@ author: Andrea Kocsis
 date: 2023-04-21T12:14:27.966Z
 tags:
   - post
-  - news
+  - news1
 image: /assets/blog/screenshot-2023-04-21-at-10.31.25.png
 imageAlt: "Cambridge Cultural Heritage Data School 2023 "
 ---
