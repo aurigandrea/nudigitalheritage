@@ -26,7 +26,7 @@ Browse the full programme [here](https://www.cdh.cam.ac.uk/wp-content/uploads/20
 
 ![Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who.](/assets/blog/screenshot-2023-04-22-at-00.07.19.png "Dr Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who.")
 
-Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who.
+Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who. Forgive me for the quality. I broke my phone camera.
 
 These exercises achieved several learning outcomes: demystified algorithmic thinking, eliminated the fear of trying, deepened theoretical knowledge, demonstrated abstract concepts, and provided trophies to take away, such as the 3D model of Antony Gormley’s much-debated Alan Turing statue.
 
@@ -34,7 +34,9 @@ These exercises achieved several learning outcomes: demystified algorithmic thin
 
 In my own teaching practice, I find it crucial not to limit my exercises to a software manual. The aim is to understand what the programme or method can and cannot answer if adequately interrogated. Collection tours, lightning talks, and [project introductions](https://www.sharemuseumseast.org.uk/wp-content/uploads/2023/02/Data-Driven-Museums-2023-FINAL-1.pdf) also made sure that there was a light at the end of the DH tunnel. 
 
-![](/assets/blog/cdh_group.jpeg)
+![Survivors](/assets/blog/cdh_group.jpeg "Survivors")
+
+S﻿urvivors
 
 The short-term feedback so far is very positive about this intensive group format. One participant said they are not afraid anymore of learning to code, others are already organising working groups to apply the knowledge they gained.
 
@@ -58,6 +60,4 @@ If you are just starting your DH journey, there are some great online resources 
 * [GLAM Workbench](https://glam-workbench.net/)
 * [S﻿oftware Carpentry](https://software-carpentry.org/lessons/)
 * ﻿[T﻿he Turing Way ﻿](https://the-turing-way.netlify.app/index.html) 
-* 
-
-  I﻿ learnt coding from [CodeFirst:Girls. ](https://codefirstgirls.com/)[](https://software-carpentry.org/lessons/)
+* I﻿ learnt coding from [CodeFirst:Girls. ](https://codefirstgirls.com/)[](https://software-carpentry.org/lessons/)
