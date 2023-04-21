@@ -16,6 +16,7 @@ date: 2023-04-20T09:12:41.549Z
 tags:
   - post
   - featured
+  - news
 image: /assets/blog/screenshot-2023-04-20-at-10.16.00.png
 imageAlt: Start of the exhibition
 ---
