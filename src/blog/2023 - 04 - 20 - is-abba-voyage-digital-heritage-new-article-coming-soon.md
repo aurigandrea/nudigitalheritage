@@ -10,7 +10,7 @@ author: Andrea Kocsis
 date: 2023-04-20T09:33:28.289Z
 tags:
   - post
-  - news
+  - news2
 image: /assets/blog/abba-voyage-artwork-710x355.jpeg
 imageAlt: The ABBA Voyage poster
 ---
