@@ -8,9 +8,9 @@ description: "Over the past few decades, video games have become one of the most
   One of the most popular genres is that of war games: where digitally
   representing real-life war functions as the basis of both gameplay and
   narrative. The Imperial War Museum’s new exhibition, ‘War Games’, attempts to
-  provide insight into how such games are created and what impact these
-  historical representations of warfare can have on users.  Christina Chester
-  thinks it is a missed opportunity. Continue reading to learn why."
+  provide insight into how they are created and what impact these historical
+  representations of warfare can have on users.  I think it is a missed
+  opportunity. Continue reading to learn why."
 author: " Christina Chester"
 date: 2023-04-20T09:12:41.549Z
 tags:
