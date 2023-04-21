@@ -5,7 +5,7 @@ layout: 'base.njk'
 ---
 
 
-<section class="hero">
+<section class="hero" xmlns="http://www.w3.org/1999/html">
   <div class="container flow">
       <div class="hero__content flow">
         <h1 class="section-title">Welcome! We are still building this site, please come back later</h1>
@@ -25,13 +25,40 @@ layout: 'base.njk'
 
 <section id="news" class="news">
   <div class="container flow">
-    <h2 class="section-title text-center ">Digital heritage news from us</h2>
-    <p class="text-center">Here are some things we were up to recently.</p>
-   <ul role="list" class="articles__list flow">
- {%- for post in collections.news |reverse -%}
-   {% include 'news.snippet.njk' %}
-    {%- endfor -%}
-</ul>
+    <h2 class="section-title text-center" class="news__title">Digital heritage news from us</h2>
+    <p class="text-center" class="news__text">Here are some things we were up to recently.</p>
+<div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "autoPlay": 10000, "wrapAround": true}'>
+    <div class="carousel-cell">
+{%- for post in collections.news1 -%}
+         <article class="snippet">
+   <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}" class="snippet__image">
+ <h3 class="snippet__title"><a href="{{ post.url}}">
+        {{ post.data.title }}</a>
+      </h3>
+      <p class="snippet__meta">by <span> {{ post.data.author }}</span> on <span> {{post.data.date | postDate }}</span></p>
+      <p class="snippet_body">{{ post.data.description }}</p>
+      <a href="{{ post.url }}" class="btn btn--primary">Continue reading</a>
+                                    </article>
+
+   {%- endfor -%}
+</div>
+    <div class="carousel-cell">
+        {%- for post in collections.news2 -%}
+
+
+              <article class="snippet"><img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}" class="snippet__image">
+ <h3 class="snippet__title"><a href="{{ post.url}}">
+        {{ post.data.title }}</a>
+      </h3>
+      <p class="snippet__meta">by <span> {{ post.data.author }}</span> on <span> {{post.data.date | postDate }}</span></p>
+      <p class="snippet_body">{{ post.data.description }}</p>
+      <a href="{{ post.url }}" class="btn btn--primary">Continue reading</a>
+              </article>
+
+  <!--{% include 'news.snippet.njk' %}-->
+{%- endfor -%}
+    </div>
+</div>
   </div>
 </section>
 
