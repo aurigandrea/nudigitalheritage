@@ -1,6 +1,15 @@
 ---
 layout: 'base.njk'
 ---
+{% metagen
+  title={{title}},
+  desc={{description}},
+  author={{author}},
+  url={{url}},
+  img={{image}},
+  img_alt= {{imageALT}},
+  twitter_card_type="summary_large_image"
+%}
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0" nonce="gkIvh2de"></script>
