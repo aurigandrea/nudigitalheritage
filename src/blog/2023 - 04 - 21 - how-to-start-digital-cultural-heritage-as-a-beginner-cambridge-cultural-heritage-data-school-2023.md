@@ -16,15 +16,15 @@ imageAlt: "Cambridge Cultural Heritage Data School 2023 "
 ---
 I was one of the seven teachers leading the ride during [Cambridge Digital Heritage Cultural Heritage Data School - Short course](https://www.cdh.cam.ac.uk/events/36038/https://www.cdh.cam.ac.uk/events/36038/#description). It was a brand-new format. Previously, CDH dedicated at least a week to this endeavour, but this time - respecting UCU strikes -  the organisers decided to squeeze it. So what to do if you want to clue up enthusiastic beginners about using DH in the heritage sector within a couple of days? We combined theory, hands-on practice, material encounters, real-life projects, and asynchronous learning for success.
 
-![Learn from me.](/assets/blog/screenshot-2023-04-22-at-00.05.30.png "Learn from me.")
+<img alt="Learn from me." src="/assets/blog/screenshot-2023-04-22-at-00.05.30.png" title="Learn from me." width="400"/>
 
 Learn from me.
 
 The concept the workshops covered included Project Design, Collecting and Wrangling GLAM data, Image processing, Text Mining, Text Encoding, Digitisation and 3D models. This way, the learners had a broad overview of various approaches while being able to draw parallels between the underlying shared concepts.  We gave a platform for trial and error immediately by involving hands-on tasks accomplishable with pieces of software utilising the learnt workflows without requiring coding skills. These brilliant tools, which gave an instant experience to the learners, included [OpenRefine](https://openrefine.org/), [Orange](https://orangedatamining.com/), [Scaniverse](https://scaniverse.com/), and an in-house developed Image Processing tool, [ImageGraph](https://www.imagegraph.cc/). 
 
-Browse the full programme [here](https://www.cdh.cam.ac.uk/wp-content/uploads/2023/01/Short-Cultural-Heritage-Data-School.pdf). 
+Browse the full programme [here](https://www.cdh.cam.ac.uk/wp-content/uploads/2023/01/Short-Cultural-Heritage-Data-School.pdf).
 
-![Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who.](/assets/blog/screenshot-2023-04-22-at-00.07.19.png "Dr Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who.")
+<img alt="Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." src="/assets/blog/screenshot-2023-04-22-at-00.07.19.png" title="Dr Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." width="600"/>
 
 Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who. Forgive me for the quality. I broke my phone camera.
 
