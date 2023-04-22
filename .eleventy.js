@@ -1,8 +1,9 @@
 const {DateTime} = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
+const metagen = require('eleventy-plugin-metagen');
 
-module.exports = function(eleventyConfig){
 module.exports = (eleventyConfig) => {
+    eleventyConfig.addPlugin(metagen);
     eleventyConfig.addPlugin(pluginSEO, require("./src/_data/seo.json"));
     eleventyConfig.addPassthroughCopy('./src/style.css');
     eleventyConfig.addPassthroughCopy('./src/assets');
