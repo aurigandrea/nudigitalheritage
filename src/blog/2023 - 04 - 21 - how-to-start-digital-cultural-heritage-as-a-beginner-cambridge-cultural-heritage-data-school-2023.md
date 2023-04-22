@@ -49,7 +49,7 @@ So what are my recommendations after assisting in the crash course learning proc
 * *Be open.* 
 * *Aim to understand the process but don’t be lost in the details*. It is enough to get the hang of it to start.
 * *Always try to link theory to practice*. Where can you apply the concept in your own practice?
-* *Always try to link the practice to theory.* What are the benefits and limitations of the method?
+* *Always try to link practice to theory.* What are the benefits and limitations of the method?
 * *Progressions and regressions are important*. Find your level, but challenge yourself.
 * *Make use of the available resources*. There is definitely a tutorial for it.
 * *Deconstruct projects you wish to replicate*. Collect and analyse digital projects, the more, the merrier.
