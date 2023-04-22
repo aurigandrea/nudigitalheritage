@@ -14,13 +14,13 @@ tags:
 image: /assets/blog/screenshot-2023-04-21-at-10.31.25.png
 imageAlt: "Cambridge Cultural Heritage Data School 2023 "
 ---
-I was one of the seven teachers leading the ride during [Cambridge Digital Heritage Cultural Heritage Data School - Short course](https://www.cdh.cam.ac.uk/events/36038/https://www.cdh.cam.ac.uk/events/36038/#description). It was a brand-new format. Previously, CDH dedicated at least a week to this endeavour, but this time - respecting UCU strikes -  the organisers decided to squeeze it. So what to do if you want to clue up enthusiastic beginners about using DH in the heritage sector within a couple of days? We combined theory, hands-on practice, material encounters, real-life projects, and asynchronous learning for success.
+I was one of the seven teachers leading the ride during [Cambridge Cultural Heritage Data School - Short course](https://www.cdh.cam.ac.uk/events/36038/https://www.cdh.cam.ac.uk/events/36038/#description). It was a brand-new format. Previously, CDH dedicated at least a week to this endeavour, but this time - respecting UCU strikes -  the organisers decided to squeeze it. So what to do if you want to clue up enthusiastic beginners about using DH in the heritage sector within a couple of days? We combined theory, hands-on practice, material encounters, real-life projects, and asynchronous learning for success.
 
 <img alt="Learn from me."  style="display: block; margin: 0 auto"  src="/assets/blog/screenshot-2023-04-22-at-00.05.30.png" title="Learn from me." width="500"/>
 
 <p style="text-align: center;font-size:10px;">Learn from me.</p>
 
-The concept the workshops covered included Project Design, Collecting and Wrangling GLAM data, Image processing, Text Mining, Text Encoding, Digitisation and 3D models. This way, the learners had a broad overview of various approaches while being able to draw parallels between the underlying shared concepts.  We gave a platform for trial and error immediately by involving hands-on tasks accomplishable with pieces of software utilising the learnt workflows without requiring coding skills. These brilliant tools, which gave an instant experience to the learners, included [OpenRefine](https://openrefine.org/), [Orange](https://orangedatamining.com/), [Scaniverse](https://scaniverse.com/), and an in-house developed Image Processing tool, [ImageGraph](https://www.imagegraph.cc/). 
+The concepts the workshops covered included Project Design, Collecting and Wrangling GLAM data, Image processing, Text Mining, Text Encoding, Digitisation and 3D models. This way, the learners had a broad overview of various approaches while being able to draw parallels between the underlying shared concepts.  We gave a platform for trial and error immediately by involving hands-on tasks accomplishable with pieces of software utilising the learnt workflows without requiring coding skills. These brilliant tools, which gave an instant experience to the learners, included [OpenRefine](https://openrefine.org/), [Orange](https://orangedatamining.com/), [Scaniverse](https://scaniverse.com/), and an in-house developed Image Processing tool, [ImageGraph](https://www.imagegraph.cc/). 
 
 Browse the full programme [here](https://www.cdh.cam.ac.uk/wp-content/uploads/2023/01/Short-Cultural-Heritage-Data-School.pdf).
 
@@ -49,7 +49,7 @@ So what are my recommendations after assisting in the crash course learning proc
 * *Be open.* 
 * *Aim to understand the process but don’t be lost in the details*. It is enough to get the hang of it to start.
 * *Always try to link theory to practice*. Where can you apply the concept in your own practice?
-* *Always try to link the practice to theory.* What are the benefits and limitations of the method?
+* *Always try to link practice to theory.* What are the benefits and limitations of the method?
 * *Progressions and regressions are important*. Find your level, but challenge yourself.
 * *Make use of the available resources*. There is definitely a tutorial for it.
 * *Deconstruct projects you wish to replicate*. Collect and analyse digital projects, the more, the merrier.
