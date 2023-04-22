@@ -18,15 +18,15 @@ I was one of the seven teachers leading the ride during [Cambridge Digital Herit
 
 <img alt="Learn from me."  style="display: block; margin: 0 auto"  src="/assets/blog/screenshot-2023-04-22-at-00.05.30.png" title="Learn from me." width="500"/>
 
-<p style="text-align: center;">Learn from me.</p>
+<p style="text-align: center;font-size:10px;">Learn from me.</p>
 
 The concept the workshops covered included Project Design, Collecting and Wrangling GLAM data, Image processing, Text Mining, Text Encoding, Digitisation and 3D models. This way, the learners had a broad overview of various approaches while being able to draw parallels between the underlying shared concepts.  We gave a platform for trial and error immediately by involving hands-on tasks accomplishable with pieces of software utilising the learnt workflows without requiring coding skills. These brilliant tools, which gave an instant experience to the learners, included [OpenRefine](https://openrefine.org/), [Orange](https://orangedatamining.com/), [Scaniverse](https://scaniverse.com/), and an in-house developed Image Processing tool, [ImageGraph](https://www.imagegraph.cc/). 
 
 Browse the full programme [here](https://www.cdh.cam.ac.uk/wp-content/uploads/2023/01/Short-Cultural-Heritage-Data-School.pdf).
 
-<img  style="display: block; margin: 0 auto"  alt="Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." src="/assets/blog/screenshot-2023-04-22-at-00.07.19.png" title="Dr Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." width="600"/>
+<img  style="display: block; margin: 0 auto"  alt="Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who." src="/assets/blog/screenshot-2023-04-22-at-00.07.19.png" title="Dr Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." width="600"/>
 
-<p style="text-align: center;">Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who. Forgive me for the quality. I broke my phone camera.</p>
+<p style="text-align: center; font-size:10px; ">Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who. Forgive me for the quality. I broke my phone camera.</p>
 
 These exercises achieved several learning outcomes: demystified algorithmic thinking, eliminated the fear of trying, deepened theoretical knowledge, demonstrated abstract concepts, and provided trophies to take away, such as the 3D model of Antony Gormley’s <a href="https://www.cambridge-news.co.uk/news/cambridge-news/alan-turing-sculpture-would-erode-24637781">much-debated</a> Alan Turing statue.
 
@@ -36,13 +36,13 @@ In my own teaching practice, I find it crucial not to limit my exercises to a so
 
 <iframe width="560" height="315"  style="display: block; margin: 0 auto" src="https://www.youtube.com/embed/Npf3M2cvAs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p style="text-align: center;">T﻿hey got the tour IRL.</p>
+<p style="text-align: center;font-size:10px;">T﻿hey got the tour IRL.</p>
 
-The short-term feedback so far is very positive about this intensive group format. One participant said they are not afraid anymore of learning to code, others are already organising working groups to apply the knowledge they gained. As a fun fact, I reunited with a participant I used to work together with at The National Archives. See our collaborations [here](https://blog.nationalarchives.gov.uk/digital-scholarship-in-archives-a-data-case-study/).
+The short-term feedback so far is very positive about this intensive group format. One participant said they were not afraid anymore of learning to code, others are already organising working groups to apply the knowledge they gained. As a fun fact, I reunited with a participant with whom I used to work together at The National Archives. See our past digital collaboration [here](https://blog.nationalarchives.gov.uk/digital-scholarship-in-archives-a-data-case-study/).  
 
 <img alt="Survivors"  style="display: block; margin: 0 auto" src="/assets/blog/cdh_group.jpeg" title="Survivors"/>
 
-<p style="text-align: center;">S﻿urvivors</p>
+<p style="text-align: center;font-size:10px;">S﻿urvivors</p>
 
 So what are my recommendations after assisting in the crash course learning process of newbie digital humanists?
 
