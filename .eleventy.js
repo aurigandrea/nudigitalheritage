@@ -17,4 +17,4 @@ module.exports = (eleventyConfig) => {
             output:"public"
         }
     }
-}
+}}
