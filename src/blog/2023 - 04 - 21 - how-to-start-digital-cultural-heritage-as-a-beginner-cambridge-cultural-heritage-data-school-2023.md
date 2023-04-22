@@ -1,5 +1,5 @@
 ---
-title: "How to start Digital Cultural Heritage as a beginner? - Lessons from
+title: "How to start Digital Cultural Heritage as a beginner? - Lessons from the
   Cambridge Cultural Heritage Data School 2023 "
 description: Ok, this was a wild ride! 23 GLAM professionals and researchers
   were challenged to set foot in Digital Heritage within two days. Brave people.
@@ -32,13 +32,17 @@ These exercises achieved several learning outcomes: demystified algorithmic thin
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Daze IV, by Antony Gormley" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a4093ed55cc14a47adfe5af2b9550913/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/daze-iv-by-antony-gormley-a4093ed55cc14a47adfe5af2b9550913?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Daze IV, by Antony Gormley </a> by <a href="https://sketchfab.com/ihuertaz?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> ihuertaz </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-In my own teaching practice, I find it crucial not to limit my exercises to a software manual. The aim is to understand what the programme or method can and cannot answer if adequately interrogated. Collection tours, lightning talks, and [project introductions](https://www.sharemuseumseast.org.uk/wp-content/uploads/2023/02/Data-Driven-Museums-2023-FINAL-1.pdf) also made sure that there was a light at the end of the DH tunnel. 
+In my own teaching practice, I find it crucial not to limit my exercises to a software manual. The aim is to understand what the programme or method can and cannot answer if adequately interrogated. Collection tours, [lightning talks](https://walking-the-landscape.fitzmuseum.cam.ac.uk/), and [project introductions](https://www.sharemuseumseast.org.uk/wp-content/uploads/2023/02/Data-Driven-Museums-2023-FINAL-1.pdf) also made sure that there was a light at the end of the DH tunnel. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Npf3M2cvAs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The short-term feedback so far is very positive about this intensive group format. One participant said they are not afraid anymore of learning to code, others are already organising working groups to apply the knowledge they gained. As a fun fact, I reunited with a participant I used to work together with at The National Archives. See our collaborations [here](https://blog.nationalarchives.gov.uk/digital-scholarship-in-archives-a-data-case-study/). 
+
+
 
 ![Survivors](/assets/blog/cdh_group.jpeg "Survivors")
 
 S﻿urvivors
-
-The short-term feedback so far is very positive about this intensive group format. One participant said they are not afraid anymore of learning to code, others are already organising working groups to apply the knowledge they gained.
 
 So what are my recommendations after assisting in the crash course learning process of newbie digital humanists?
 
