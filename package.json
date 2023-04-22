@@ -24,9 +24,7 @@
   "dependencies": {
     "@11ty/eleventy-img": "^3.0.0",
     "@glidejs/glide": "^3.6.0",
-    "eleventy-plugin-metagen": "^1.7.11",
     "eleventy-plugin-seo": "^0.5.2",
-    "eleventy-plugin-social-share-card-generator": "^1.0.6",
     "flickity": "^2.3.0",
     "react-flickity-component": "^4.0.5"
   }

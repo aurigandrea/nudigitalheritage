@@ -1,10 +1,7 @@
 const {DateTime} = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
-const metagen = require('eleventy-plugin-metagen');
-const socialShareCardGenerator = require('eleventy-plugin-social-share-card-generator/dist/lib');
 
-module.exports = (eleventyConfig) => {
-    eleventyConfig.addPlugin(metagen);
+module.exports = function(eleventyConfig){
     eleventyConfig.addPlugin(pluginSEO, require("./src/_data/seo.json"));
     eleventyConfig.addPassthroughCopy('./src/style.css');
     eleventyConfig.addPassthroughCopy('./src/assets');
