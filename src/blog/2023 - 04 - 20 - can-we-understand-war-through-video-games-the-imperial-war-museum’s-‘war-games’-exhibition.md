@@ -6,11 +6,11 @@ description: "Over the past few decades, video games have become one of the most
   worldwide, scholars have advocated for more research on how representations of
   past events in video games contribute to our broader cultural understandings.
   One of the most popular genres is that of war games: where digitally
-  representing real-life war functions as the basis of both gameplay and
-  narrative. The Imperial War Museum’s new exhibition, ‘War Games’,  provides
-  insight into how they are created and what impact these historical
-  representations of warfare can have on users.  I think it is a missed
-  opportunity. Continue reading to learn why."
+  representing a real-life war is the basis of both gameplay and narrative. The
+  Imperial War Museum’s new exhibition, ‘War Games’,  provides insight into how
+  they are created and what impact these historical representations of warfare
+  can have on users.  I think it is a missed opportunity. Continue reading to
+  learn why."
 author: " Christina Chester"
 date: 2023-04-20T09:12:41.549Z
 tags:
@@ -22,21 +22,27 @@ imageAlt: Start of the exhibition
 ---
 > *Our world has been shaped by the violence and destruction of real war. But in video games, war and conflict are backdrops for gameplay. Games have the power to affect the way we remember and feel about conflict.’ - IWM.* 
 
-The exhibition is divided into nine ‘Levels’, each  representing a new topic. ‘Level 01’ features a large ‘01’-shaped screen displaying  game footage. The words, ‘War has always fascinated us’, are illuminated on the wall of the dark room, preparing the museum-goer for ‘Level 02’, which features the history of the ‘war game’ concept. Displayed board games, such as ‘Battleships’, demonstrate how video games are merely a new, digital form of a long-standing tradition in which the ‘act of play’ is utilised to recreate war scenarios. Placards explain how these manufactured scenarios have historically been used for both entertainment and strategic purposes.
+The [exhibition](https://www.iwm.org.uk/events/war-games) is divided into nine ‘Levels’, each introducing a new topic. ‘Level 01’ features a large ‘01’-shaped screen displaying game footage. The words, ‘*War has always fascinated us’*, are illuminated on the wall of the dark room, preparing the museum-goer for ‘Level 02’,  featuring the history of the ‘war game’ concept. Displayed board games, such as ‘Battleships’, demonstrate how video games are merely a new, digital form of a long-standing tradition in which the ‘act of play’ is utilised to recreate war scenarios. Placards explain how these manufactured situations have historically been used for both entertainment and strategic purposes. 
 
 ![‘Level 01’: ‘War has always fascinated us’, illuminates an otherwise darkened room. ](/assets/blog/screenshot-2023-04-20-at-10.16.11.png "‘Level 01’: ‘War has always fascinated us’, illuminates an otherwise darkened room. ")
 
 ‘Level 01’: ‘War has always fascinated us’, illuminates an otherwise darkened room. 
 
-This would have been an excellent section to discuss the highly popular war strategy and civilization games, such as *Civilisation* and *Age of Empires*. Despite the historical inaccuracies that are often found within these games, scholars such as Rolfe Daus Peterson have found that such games are nonetheless helpful in broadening the gamers’ understanding of the factors that have shaped military conquest in history. Unfortunately, this opportunity was missed, as the section instead focuses predominantly on briefly overviewing the genre’s history.
+This would have been an excellent section to discuss the highly popular war strategy and civilization games, such as *[Civilisation](https://www.youtube.com/watch?v=5KdE0p2joJw&ab_channel=SidMeier%27sCivilization)* and *[Age of Empires](https://www.youtube.com/watch?v=Ovt7d34_hRA&ab_channel=Xbox)*. Despite the historical inaccuracies that are often found within these games, scholars such as Rolfe Daus Peterson have found that such games are nonetheless helpful in broadening the gamers’ understanding of the factors that have shaped military conquest in history. Unfortunately, this opportunity was missed, as the section instead focuses predominantly on overviewing the genre’s brief history. 
 
 ![‘Level 03’: ‘Good stories need conflict’, illuminated on the wall opposite the screening of interviews. ](/assets/blog/screenshot-2023-04-20-at-10.16.16.png "‘Level 03’: ‘Good stories need conflict’, illuminated on the wall opposite the screening of interviews. ")
 
 ‘Level 03’: ‘Good stories need conflict’, illuminated on the wall opposite the screening of interviews. 
 
-Similarly, the ideas presented in ‘Level 03’ could have been much expanded upon. A large, pixelated screen shows a series of interviews by historians, psychologists, and gamers. The virtual panel of speakers answer questions about why war is such a fascinating phenomenon and what makes gaming an enjoyable pastime. Some of these answers were informative and interesting as they explained how video games can provoke specific emotions and thoughts. However, discussions around the possibility of interactivity triggering intense feelings of guilt and betrayal within gamers failed to delve deeper into how these emotions may impact the overall understanding of past wars or what lasting impressions (and possible misconceptions) the gamers may subconsciously absorb.
+Similarly, the ideas presented in ‘Level 03’ could have been much expanded upon. A large, pixelated screen shows a series of interviews by historians, psychologists, and gamers. The virtual panel of speakers answers questions about why war is such a fascinating phenomenon and what makes gaming an enjoyable pastime. Some of these answers were informative and interesting as they explained how video games can provoke specific emotions and thoughts. However, discussions around the possibility of interactivity triggering intense feelings of guilt and betrayal within gamers failed to delve deeper into how these emotions may impact the overall understanding of past wars or what lasting impressions (and possible misconceptions) the gamers may subconsciously absorb.
 
-Some of the exhibition’s most interesting displays (Levels 06 - 08) partly delve into how video games can shape and inform our understanding of war history. In ‘Level 06’, the museum-goer is introduced to two games that aim to illuminate previously neglected narratives within depictions of war history in this genre: Through the Darkest of Times and Six Days in Fallujah. In Through the Darkest of Times, the player can join a civil resistance group during Nazi-era Berlin. The player forms a part of the narrative, ‘witnessing’ and experiencing the stakes, challenges and terror that civilian resistant fighters faced in opposition to the Third Reich. In Six Days in Fallujah, the player is a US marine fighting for control over the Iraqi city of Fallujah in 2004. They have to navigate the terror and uncertainty of house-to-house urban conflict whilst coming into contact with terrified civilians. 
+Some of the exhibition’s most interesting displays (Levels 06 - 08) partly touch on how video games can shape and inform our understanding of war history. In ‘Level 06’, the museum-goer is introduced to two games that aim to illuminate previously neglected narratives within this genre: *Through the Darkest of Times* and *Six Days in Falluja*h. In *Through the Darkest of Times*, the player can join a civil resistance group during Nazi-era Berlin. The player forms a part of the narrative, ‘witnessing’ and experiencing the stakes, challenges and terror that civilian resistant fighters faced in opposition to the Third Reich.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PATk-zo1RGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ In Six Days in Fallujah, the player is a US marine fighting for control over the Iraqi city of Fallujah in 2004. They have to navigate the terror and uncertainty of house-to-house urban conflict whilst coming into contact with terrified civilians. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BUewHj5VowU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 A real-life artefact associated with the wars these games cover is laid next to a screening showing interviews with the creators. Both games aim to widen the player’s perspective on these wars' lived experiences, especially of civilians and soldiers. The decision to marry an actual material artefact with a digitalised explanation emphasises the real lived experiences in war that are now forming a part of a digital heritage, albeit in a game format. 
 
@@ -62,7 +68,7 @@ Meanwhile, critically acclaimed franchises, such as Medal of Honour and Call of 
 
 Ultimately, well the ‘War Games’ exhibition may serve as an excellent introductory experience into how war remembrance and heritage are incorporated into the digital realm of video games, the ideas presented throughout the exhibition would have been more thought-provoking if expanded upon. Although the exhibition provides a few examples of games that present more nuanced portrayals of real-life conflicts, it lacks any investigation into the potential harms of the simplistic war narratives found in some of the more popular FPS games. Future exhibitions on this topic should aim to delve deeper into such debates and provide more of a balanced perspective on the cultural impact of war games. Being presented with the more difficult questions surrounding historical representations in this new digital format would significantly expand our overall understanding of the increasingly prominent role war games play in shaping war heritage.
 
-**The ‘War Games’ expedition can be seen, free of charge, at the London Imperial War Museum until the 28th of May 2023.** 
+**The [‘War Games’ exhibition](https://www.iwm.org.uk/events/war-games) can be seen, free of charge, at the London Imperial War Museum until the 28th of May 2023.** 
 
 ##### **Games featured at the expedition:**
 
@@ -81,7 +87,7 @@ Ultimately, well the ‘War Games’ exhibition may serve as an excellent introd
 
  *1.See chapters 2,6 & 7 in: W. M. Knoblauch & M. W. Kappell (2013) Playing with the Past: Digital Games and the Simulation of History. London: Bloomsbury Academic.* 
 
-*2﻿. (2022),A World At Play: The Current State of the Video Game Industry: What the Video Game Industry Looks Like in 2022. Retrieved from URL:** [Video Game Industry Statistics and Trends 2022 | Liquid Web](https://www.liquidweb.com/insights/video-game-statistics/#anchor7).***
+\*2﻿. (2022),A World At Play: The Current State of the Video Game Industry: What the Video Game Industry Looks Like in 2022. Retrieved from URL:** [Video Game Industry Statistics and Trends 2022 | Liquid Web](https://www.liquidweb.com/insights/video-game-statistics/#anchor7).***
 
  *3.Tanner Mirrlees and Taha Ibaid. The Virtual Killing of Muslims: Digital War Games, Islamophobia, and the Global War on Terror. Islamophobia Studies Journal. 2021. Vol. 6(1):33-51. DOI: 10.13169/islastudj.6.1.0033* 
 
