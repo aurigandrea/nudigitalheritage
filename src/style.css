@@ -577,4 +577,11 @@ transform: scale(1.02);
   margin-right: auto;
 }
 
+.main-article iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
