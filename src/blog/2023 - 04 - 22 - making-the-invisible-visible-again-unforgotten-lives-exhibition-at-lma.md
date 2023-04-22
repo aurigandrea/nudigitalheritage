@@ -1,13 +1,13 @@
 ---
 title: " Making the invisible visible again - Unforgotten Lives exhibition at LMA"
-description: The Unforgotten Lives exhibition, a collaboration between the
+description: "The Unforgotten Lives exhibition, a collaboration between the
   London Metropolitan Archives (LMA), Mapping Black London (MBL), and
   Northeastern University London, has launched! The exhibition displays the
   Switching the Lens dataset, a collection of parish records mentioning
   non-white people in London. I helped design digital components to engage a
   sense of ‘deep place’, where visitors are encouraged to consider the
   long-range presence of non-white Londoners by making connections between past
-  and present.
+  and present."
 author: Andrea Kocsis
 date: 2023-04-22T10:48:08.883Z
 tags:

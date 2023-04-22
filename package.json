@@ -19,11 +19,13 @@
   },
   "homepage": "https://github.com/aurigandrea/nudigitalheritage#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0"
+    "@11ty/eleventy": "^2.0.0",
+    "@quasibit/eleventy-plugin-schema": "^1.11.0"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^3.0.0",
     "@glidejs/glide": "^3.6.0",
+    "eleventy-plugin-metagen": "^1.7.11",
     "eleventy-plugin-seo": "^0.5.2",
     "flickity": "^2.3.0",
     "react-flickity-component": "^4.0.5"
