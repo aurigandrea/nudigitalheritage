@@ -16,7 +16,7 @@ imageAlt: "Cambridge Cultural Heritage Data School 2023 "
 ---
 I was one of the seven teachers leading the ride during [Cambridge Digital Heritage Cultural Heritage Data School - Short course](https://www.cdh.cam.ac.uk/events/36038/https://www.cdh.cam.ac.uk/events/36038/#description). It was a brand-new format. Previously, CDH dedicated at least a week to this endeavour, but this time - respecting UCU strikes -  the organisers decided to squeeze it. So what to do if you want to clue up enthusiastic beginners about using DH in the heritage sector within a couple of days? We combined theory, hands-on practice, material encounters, real-life projects, and asynchronous learning for success.
 
-<img alt="Learn from me." src="/assets/blog/screenshot-2023-04-22-at-00.05.30.png" title="Learn from me." width="400"/>
+<img alt="Learn from me."  style="display: block; margin: 0 auto"  src="/assets/blog/screenshot-2023-04-22-at-00.05.30.png" title="Learn from me." width="500"/>
 
 Learn from me.
 
@@ -24,25 +24,25 @@ The concept the workshops covered included Project Design, Collecting and Wrangl
 
 Browse the full programme [here](https://www.cdh.cam.ac.uk/wp-content/uploads/2023/01/Short-Cultural-Heritage-Data-School.pdf).
 
-<img alt="Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." src="/assets/blog/screenshot-2023-04-22-at-00.07.19.png" title="Dr Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." width="600"/>
+<img  style="display: block; margin: 0 auto"  alt="Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." src="/assets/blog/screenshot-2023-04-22-at-00.07.19.png" title="Dr Anne Alexander demonstrating machine vision abstraction with the help pf Pictionary and Dr Who." width="600"/>
 
-Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who. Forgive me for the quality. I broke my phone camera.
+<p style="text-align: center;">Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who. Forgive me for the quality. I broke my phone camera.</p>
 
 These exercises achieved several learning outcomes: demystified algorithmic thinking, eliminated the fear of trying, deepened theoretical knowledge, demonstrated abstract concepts, and provided trophies to take away, such as the 3D model of Antony Gormley’s much-debated Alan Turing statue.
 
-<div class="sketchfab-embed-wrapper"> <iframe width="560" height="315"  title="Daze IV, by Antony Gormley" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a4093ed55cc14a47adfe5af2b9550913/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/daze-iv-by-antony-gormley-a4093ed55cc14a47adfe5af2b9550913?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Daze IV, by Antony Gormley </a> by <a href="https://sketchfab.com/ihuertaz?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> ihuertaz </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<div class="sketchfab-embed-wrapper"  style="display: block; margin: 0 auto" > <iframe  style="display: block; margin: 0 auto"  width="560" height="315"  title="Daze IV, by Antony Gormley" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a4093ed55cc14a47adfe5af2b9550913/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A text-align: center;" > <a href="https://sketchfab.com/3d-models/daze-iv-by-antony-gormley-a4093ed55cc14a47adfe5af2b9550913?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Daze IV, by Antony Gormley </a> by <a href="https://sketchfab.com/ihuertaz?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> ihuertaz </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 In my own teaching practice, I find it crucial not to limit my exercises to a software manual. The aim is to understand what the programme or method can and cannot answer if adequately interrogated. Collection tours, [lightning talks](https://walking-the-landscape.fitzmuseum.cam.ac.uk/), and [project introductions](https://www.sharemuseumseast.org.uk/wp-content/uploads/2023/02/Data-Driven-Museums-2023-FINAL-1.pdf) also made sure that there was a light at the end of the DH tunnel. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Npf3M2cvAs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315"  style="display: block; margin: 0 auto" src="https://www.youtube.com/embed/Npf3M2cvAs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-T﻿hey got the tour IRL.
+<p style="text-align: center;">T﻿hey got the tour IRL.</p>
 
-The short-term feedback so far is very positive about this intensive group format. One participant said they are not afraid anymore of learning to code, others are already organising working groups to apply the knowledge they gained. As a fun fact, I reunited with a participant I used to work together with at The National Archives. See our collaborations [here](https://blog.nationalarchives.gov.uk/digital-scholarship-in-archives-a-data-case-study/). 
+The short-term feedback so far is very positive about this intensive group format. One participant said they are not afraid anymore of learning to code, others are already organising working groups to apply the knowledge they gained. As a fun fact, I reunited with a participant I used to work together with at The National Archives. See our collaborations [here](https://blog.nationalarchives.gov.uk/digital-scholarship-in-archives-a-data-case-study/).
 
-![Survivors](/assets/blog/cdh_group.jpeg "Survivors")
+<img alt="Survivors"  style="display: block; margin: 0 auto" src="/assets/blog/cdh_group.jpeg" title="Survivors"/>
 
-S﻿urvivors
+<p style="text-align: center;">S﻿urvivors</p>
 
 So what are my recommendations after assisting in the crash course learning process of newbie digital humanists?
 
