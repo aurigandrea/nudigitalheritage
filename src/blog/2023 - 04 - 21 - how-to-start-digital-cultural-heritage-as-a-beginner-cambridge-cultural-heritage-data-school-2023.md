@@ -18,7 +18,7 @@ I was one of the seven teachers leading the ride during [Cambridge Digital Herit
 
 <img alt="Learn from me."  style="display: block; margin: 0 auto"  src="/assets/blog/screenshot-2023-04-22-at-00.05.30.png" title="Learn from me." width="500"/>
 
-Learn from me.
+<p style="text-align: center;">Learn from me.</p>
 
 The concept the workshops covered included Project Design, Collecting and Wrangling GLAM data, Image processing, Text Mining, Text Encoding, Digitisation and 3D models. This way, the learners had a broad overview of various approaches while being able to draw parallels between the underlying shared concepts.  We gave a platform for trial and error immediately by involving hands-on tasks accomplishable with pieces of software utilising the learnt workflows without requiring coding skills. These brilliant tools, which gave an instant experience to the learners, included [OpenRefine](https://openrefine.org/), [Orange](https://orangedatamining.com/), [Scaniverse](https://scaniverse.com/), and an in-house developed Image Processing tool, [ImageGraph](https://www.imagegraph.cc/). 
 
@@ -28,7 +28,7 @@ Browse the full programme [here](https://www.cdh.cam.ac.uk/wp-content/uploads/20
 
 <p style="text-align: center;">Anne Alexander demonstrating machine vision abstraction with the help of Pictionary and Dr Who. Forgive me for the quality. I broke my phone camera.</p>
 
-These exercises achieved several learning outcomes: demystified algorithmic thinking, eliminated the fear of trying, deepened theoretical knowledge, demonstrated abstract concepts, and provided trophies to take away, such as the 3D model of Antony Gormley’s much-debated Alan Turing statue.
+These exercises achieved several learning outcomes: demystified algorithmic thinking, eliminated the fear of trying, deepened theoretical knowledge, demonstrated abstract concepts, and provided trophies to take away, such as the 3D model of Antony Gormley’s <a href="https://www.cambridge-news.co.uk/news/cambridge-news/alan-turing-sculpture-would-erode-24637781">much-debated</a> Alan Turing statue.
 
 <div class="sketchfab-embed-wrapper"  style="display: block; margin: 0 auto" > <iframe  style="display: block; margin: 0 auto"  width="560" height="315"  title="Daze IV, by Antony Gormley" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a4093ed55cc14a47adfe5af2b9550913/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A text-align: center;" > <a href="https://sketchfab.com/3d-models/daze-iv-by-antony-gormley-a4093ed55cc14a47adfe5af2b9550913?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Daze IV, by Antony Gormley </a> by <a href="https://sketchfab.com/ihuertaz?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> ihuertaz </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a4093ed55cc14a47adfe5af2b9550913" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
