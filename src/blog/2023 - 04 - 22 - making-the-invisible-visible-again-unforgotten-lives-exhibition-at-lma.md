@@ -24,13 +24,13 @@ Secondly, an animated Flow Map presents the routes and roots of non-white London
 
 Finally, I made a web app, optimised for phone browsers, which is a real-time geolocation tracking walking guide helping visitors discover the places mentioned during the exhibition, encouraging them to interact with the heritage of Black London after leaving, extending the exhibit over the walls of the archives to the city itself.
 
-![Scan there](/assets/blog/lma2.jpeg "Scan there")
+<img alt="Scan there" style="display: block; margin: 0 auto" src="/assets/blog/lma2.jpeg" title="Scan there" width="400"/>
 
-S﻿can there
+<p style="text-align: center;font-size:10px;">S﻿can there</p>
 
 The exhibition discovers people and places which were once material but are not visible anymore. Our approach was to digitally link the visitor to the physical space and by doing so, invoke the historical layers of the city. By juxtaposing the archive records (material temporal), the interactive maps (digital spatial) and the city walking guide application (digital-material temporal), the visitor can experience a synthesis between different forms of encounter with their local heritage. These materials, moreover, induce a more lasting engagement with the exhibition, allowing visitors to explore the material online in their own time – either at home  or on the move across the city’s streets.
 
-![The exhibition poster](/assets/blog/ul-logo-1.png "The exhibition poster")
+<img style="display: block; margin: 0 auto" alt="The exhibition poster" src="/assets/blog/ul-logo-1.png" title="The exhibition poster"/>
 
 NU & LMA collaboration reflects opportunities for partnerships. Universities with institutional access to software, expertise and research support can complement archives that have the source material. It is an appropriate time for digital collaboration – as several databases that have been long in the making and have great material remain inaccessible or unengaging to the public. By adapting to the nature of newer tools and taking a less protective approach towards the records, LMA enabled it to bring life into a valuable but not user-friendly [collection](https://search.lma.gov.uk/scripts/mwimain.dll?logon&application=UNION_VIEW&language=144&file=[lma]through-the-lens.html&utm_source=col&utm_medium=web&utm_campaign=switching-the-lens). 
 
