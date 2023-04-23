@@ -16,7 +16,8 @@ module.exports = function(eleventyConfig){
     urlPath: "/assets/preview",
         siteName: "heritagedigital.org",
 	titleColor: "white",
-	bgColor: ['#38baad']
+	bgColor: ['#38baad'],
+        lineBreakAt: 45,
   });
     eleventyConfig.addPlugin(schema);
     eleventyConfig.addFilter("postDate", (dateObj) => {
