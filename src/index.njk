@@ -12,9 +12,9 @@ layout: 'base.njk'
         <p>Heritage is the use of the past in the present. But what happens with the past if our present is digital?</p>
         <p>We are some like-minded students and scholars interested in heritage and digital humanities, and use this space to search for possible answers through critical lenses. Have a look around!</p>
         <div class="flex-group">
-          <a href="#featured-articles" class="btn btn--primary">Featured articles</a>
-          <a href="./blog" class="btn btn--primary2">Most recent articles</a>
-            <a href="/#aboutus" class="btn btn--neutral">About us</a>
+          <a href="#featured-articles" class="btn offset">Featured articles</a>
+          <a href="./blog" class="btn offset">Most recent articles</a>
+            <a href="/#aboutus" class="btn offset">About us</a>
         </div>
       </div>
       <div>
@@ -37,7 +37,7 @@ layout: 'base.njk'
       </h3>
       <p class="snippet__meta">by <span> {{ post.data.author }}</span> on <span> {{post.data.date | postDate }}</span></p>
       <p class="snippet_body">{{ post.data.description }}</p>
-      <a href="{{ post.url }}" class="btn btn--primary">Continue reading</a>
+      <a href="{{ post.url }}" class="btn offset">Continue reading</a>
                                     </article>
 
    {%- endfor -%}
@@ -51,7 +51,7 @@ layout: 'base.njk'
       </h3>
       <p class="snippet__meta">by <span> {{ post.data.author }}</span> on <span> {{post.data.date | postDate }}</span></p>
       <p class="snippet_body">{{ post.data.description }}</p>
-      <a href="{{ post.url }}" class="btn btn--primary">Continue reading</a>
+      <a href="{{ post.url }}" class="btn offset">Continue reading</a>
                                     </article>
 
    {%- endfor -%}
@@ -66,7 +66,7 @@ layout: 'base.njk'
       </h3>
       <p class="snippet__meta">by <span> {{ post.data.author }}</span> on <span> {{post.data.date | postDate }}</span></p>
       <p class="snippet_body">{{ post.data.description }}</p>
-      <a href="{{ post.url }}" class="btn btn--primary">Continue reading</a>
+      <a href="{{ post.url }}" class="btn offset">Continue reading</a>
               </article>
 
   <!--{% include 'news.snippet.njk' %}-->
@@ -86,7 +86,7 @@ layout: 'base.njk'
     {%- endfor -%}
 </ul>
       <div class="text-center">
-          <a href="./blog" class="btn btn--primary">I want to read all</a>
+          <a href="./blog" class="btn offset">I want to read all</a>
 </div>
   </div>
 
