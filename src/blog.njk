@@ -3,7 +3,7 @@ title: Recent articles
 layout: 'base.njk'
 ---
 <div class="section container">
-<ul role="list" class="articles__list flow">
+<ul role="list" class="articles__list flow" >
   {%- for post in collections.post |reverse -%}
    {% include 'article.snippet.njk' %}
     {%- endfor -%}

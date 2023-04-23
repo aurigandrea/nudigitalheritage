@@ -1,5 +1,5 @@
 <header id="page-header">
-  <div class="container">
+  <div class="container" class="page-header">
     <div class="page-header__content">
       <div class="content-sidebar">
           <div class="col">
@@ -7,13 +7,11 @@
                <a href="/"><img src="/assets/logo.png" ></a>
                </div>
           <div class="col">
-
-              <h1><span class="hover-underline-animation">Heritage in the digital age</h1>
-
+              <h1>Heritage in the digital age</h1>
             </div>
               <div class="col">
                  <nav>
-        <ul role="list" class="nav-list flex-group">
+        <ul role="list" class="nav-list flex-group" id="myTopnav">
           <li>
             <a href="/">Home</a>
           </li>
@@ -23,8 +21,14 @@
             <li>
             <a href="/#aboutus">About us</a>
           </li>
+            <li></li>
+              <a href="javascript:void(0);" class="icon" onclick="navCollapse()">
+    <i class="fa fa-bars"></i>  </a>
+            </li>
         </ul>
       </nav>
+              </div>
+
                   </div>
  </div>
 
@@ -32,6 +36,16 @@
     </div>
   </div>
     <script>
+
+function navCollapse() {
+  var navcollapse = document.getElementById("myTopnav");
+  if (navcollapse.className === "nav-list") {
+    navcollapse.className += " responsive";
+  } else {
+    navcollapse.className = "nav-list";
+  }
+}
+
         // When the user scrolls the page, execute myFunction
 window.onscroll = function() {myFunction()};
 
@@ -59,4 +73,5 @@ document.querySelector('.body-container').addEventListener('touchmove', function
   event.stopPropagation()
 }, false)
     </script>
+
 </header>
