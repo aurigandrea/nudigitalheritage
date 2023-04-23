@@ -1,6 +1,6 @@
 const {DateTime} = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
-const schema = require("@quasibit/eleventy-plugin-schema");
+//const schema = require("@quasibit/eleventy-plugin-schema");
 const generateSocialImages = require("@manustays/eleventy-plugin-generate-social-images");
 
 
@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig){
 	bgColor: ['#38baad'],
         lineBreakAt: 45,
   });
-    eleventyConfig.addPlugin(schema);
+    //eleventyConfig.addPlugin(schema);
     eleventyConfig.addFilter("postDate", (dateObj) => {
       return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
     })
