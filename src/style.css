@@ -387,6 +387,10 @@ box-shadow:
   justify-self: start;
   /*box-shadow: 0 2px 4px 0 #003747;*/
 }
+.btn:focus {
+  outline: 0.125em solid #003747;
+  outline-offset: 0.25em;
+}
 
 .center {
   display: block;
