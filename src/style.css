@@ -362,19 +362,6 @@ box-shadow:
   }
 }
 
-.offset {
-  box-shadow:
-    0.3em 0.3em 0 0 #38baad,
-    inset 0.3em 0.3em 0 0 #38baad;
-
-  &:hover,
-  &:focus {
-    box-shadow:
-      0 0 0 0 #026a81,
-      inset 6em 3.5em 0 0 #026a81;
-  color: white;
-  }
-}
 
 .btn {
   cursor: pointer;
@@ -385,11 +372,16 @@ box-shadow:
   border-radius: 0.25em;
   align-self: start;
   justify-self: start;
-  /*box-shadow: 0 2px 4px 0 #003747;*/
-}
+  box-shadow:
+    0.3em 0.3em 0 0 #38baad,
+    inset 0.3em 0.3em 0 0 #38baad;}
+.btn:hover,
 .btn:focus {
-  outline: 0.125em solid #003747;
-  outline-offset: 0.25em;
+    box-shadow:
+      0 0 0 0 #026a81,
+      inset 6em 3.5em 0 0 #026a81;
+  color: white;
+  }
 }
 
 .center {
