@@ -187,6 +187,8 @@ iframe {
        justify-content: space-between;
           background: linear-gradient(190deg,rgba(56, 186, 173) 50%, rgba(255, 255, 255) 50%);
       z-index: 1;
+  left: 0;
+  width: 100%;
     border-bottom: 2px solid transparent;
     border-image: linear-gradient(0.25turn, rgba(140,15,35), rgba(56, 186, 173), rgba(56,2,155,0));
     border-image-slice: 1;
