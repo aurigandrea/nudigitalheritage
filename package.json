@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^3.0.0",
-    "@11tyrocks/eleventy-plugin-social-images": "^0.4.1",
+    "@11tyrocks/eleventy-plugin-social-images": "^0.2.0",
     "@glidejs/glide": "^3.6.0",
     "@manustays/eleventy-plugin-generate-social-images": "^4.1.0",
     "eleventy-plugin-metagen": "^1.7.11",
@@ -32,4 +32,4 @@
     "flickity": "^2.3.0",
     "react-flickity-component": "^4.0.5"
   }
-  }
+}
