@@ -79,7 +79,7 @@ layout: 'base.njk'
 <section id="featured-articles" class="featured-articles">
   <div class="container flow">
     <h2 class="section-title text-center ">Featured articles</h2>
-    <p class="text-center">Here is a taster of articles that can give you a good idea of what this site is about. Dive in!</p>
+    <p class="text-center">Here is a taster of articles to give you a good idea of what this blog is about. Dive in for more by hitting the read all button!</p>
    <ul role="list" class="articles__list flow">
   {%- for post in collections.featured |reverse -%}
    {% include 'article.snippet.njk' %}

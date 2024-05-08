@@ -540,6 +540,7 @@ transform: scale(1.02);
     box-shadow: 0 2px 4px 0 #003747;
     border-radius: 0.25em;
   padding: 10px;
+  overflow: hidden;
 }
 
 .main-article__figure img{
