@@ -2,7 +2,8 @@
 title: Carrier News! Joining the University of Edinburgh
 description: >
   I﻿ continue this blog from Edinburgh, where I've been appointed as a
-  Chancellor's Fellow in Humanities Informatics.
+  Chancellor's Fellow in Humanities Informatics. Wanna know what I'm going to do
+  up North?
 author: Andrea Kocsis
 date: 2024-05-08T17:49:08.669Z
 tags:
