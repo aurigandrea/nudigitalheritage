@@ -12,7 +12,7 @@ author: Andrea Kocsis
 date: 2023-04-22T10:48:08.883Z
 tags:
   - post
-  - featured
+  - ""
 image: /assets/blog/lma1.jpeg
 imageAlt: Pose with your interactive screen
 ---
