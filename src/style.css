@@ -519,21 +519,21 @@ transform: scale(1.02);
   background: #003747;
 }
 .flickity-prev-next-button:hover {
-  background: #38baad;
+  background: #38baad !important;
 }
 /* arrow color */
 .flickity-prev-next-button .arrow {
-  fill: white;
+  fill: white !important;
 }
 .flickity-prev-next-button.no-svg {
-  color: white;
+  color: white !important;
 }
 /* position outside */
 .flickity-prev-next-button.previous {
-  left: -40px;
+  left: -40px !important;
 }
 .flickity-prev-next-button.next {
-  right: -40px;
+  right: -40px !important;
 }
 .main-carousel{
           background: linear-gradient(190deg, rgba(56, 186, 173) 50%, rgb(255, 255, 255) 50%);
