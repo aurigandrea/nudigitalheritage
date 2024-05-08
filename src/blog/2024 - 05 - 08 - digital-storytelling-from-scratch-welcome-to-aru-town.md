@@ -1,16 +1,15 @@
 ---
 title: Digital Storytelling from scratch? Welcome to ARU Town
-description: "<b>It's like the start of a lousy whodunnit: 50 tense people from
+description: "It's like the start of a lousy whodunnit: 50 tense people from
   different backgrounds who do not necessarily want to be there but must be
   locked together. This is how the mandatory Research Communications class I
   randomly found myself leading and building from scratch started. How did I
-  do?<b>"
+  do?"
 author: Andrea Kocsis
 date: 2024-05-08T09:37:34.822Z
 tags:
   - post
   - news1
-  - news3
   - featured
 image: /assets/blog/screenshot-2024-05-08-at-10.46.46.png
 imageAlt: ARU HiPPS Town landing page in browser
