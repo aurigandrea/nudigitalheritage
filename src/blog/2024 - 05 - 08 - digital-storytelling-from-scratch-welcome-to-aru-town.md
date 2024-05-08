@@ -1,15 +1,17 @@
 ---
 title: Digital Storytelling from scratch? Welcome to ARU Town
-description: "**It's like the start of a lousy whodunnit: 50 tense people from
+description: "<b>It's like the start of a lousy whodunnit: 50 tense people from
   different backgrounds who do not necessarily want to be there but must be
   locked together. This is how the mandatory Research Communications class I
   randomly found myself leading and building from scratch started. How did I
-  do?**"
+  do?<b>"
 author: Andrea Kocsis
 date: 2024-05-08T09:37:34.822Z
 tags:
   - post
-  - news
+  - news1
+  - news3
+  - featured
 image: /assets/blog/screenshot-2024-05-08-at-10.46.46.png
 imageAlt: ARU HiPPS Town landing page in browser
 ---
@@ -25,6 +27,7 @@ I won’t lie. It was a challenge to teach technical skills to large groups, do 
 
 They also challenged me as both a lecturer and web developer. As  a  reference, here is the—otherwise super original—wireframe they came up with.
 
-![The wireframe as imagined by the students](/assets/blog/screenshot-2024-05-08-at-11.17.23.png "The wireframe as imagined by the students")
+<img src="/assets/blog/screenshot-2024-05-08-at-11.17.23.png" width="400" style="display: block; margin: 0 auto">
+<p style="text-align: center;">The wireframe as imagined by the students</p>
 
 While realising it, I cried JavaScript lines instead of tears. What do you think about the results? [Enter ARU HiPPS Town](https://aruhippstown.netlify.app/)!
