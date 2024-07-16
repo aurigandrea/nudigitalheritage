@@ -20,7 +20,6 @@ If the concept of a web archive is foreign to you, you're not alone. Many are ev
 
 <p style="text-align: center;">Don't be like Jen.</p>
 
-
 It turns out I’m one of them. I’ve been working with the Cambridge University Library and Cambridge Digital Humanities to understand how the internet preserves the Pandemic in our collective memory as part of the Archive of Tomorrow web archiving project, which aims to archive the online discourse about health. If you are interested in digging deeper into Archive of Tomorrow, my colleague Leontien and I co-authored [a blog post about it](https://digitalpreservation-blog.lib.cam.ac.uk/sharing-health-information-at-scale-using-the-datasets-of-the-archive-of-tomorrow-project-9ac6b0e78789).
 
 In a nutshell, web archives work the same way as traditional archives, just with a bit of a semi-automated twist: archivists in the background work tediously to organise and manage memory snippets of our time collected by automated crawlers, and you as a user can access these collections in physical libraries and archives, as you would do in seek of any other written material of the past. This is just the elevator pitch, though, and the story has many plot twists - as I learnt at the nerdiest event of my life at the World’s largest web archive conference.
@@ -29,6 +28,7 @@ In a nutshell, web archives work the same way as traditional archives, just with
 
 <p style="text-align: center;">Striking Balance panel with me.</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-LgoUS55yu4?si=s9Yvdzv0Uo8xNqtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto"></iframe> 
 
 I come into the picture by facilitating this interaction between users, researchers, and archivists. I am also conducting health misinformation research based on the collection. If this piques your interest, you can delve into it here. At the National Library of Scotland, I am committed to using this research as a gateway into web archives and designing new interfaces and workshops to make them more accessible for researchers and broader audiences.
 
